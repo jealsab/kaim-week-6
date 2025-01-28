@@ -1,3 +1,5 @@
 data
 venv
 notebooks/final_dataset_with_engineered_features.csv
+notebooks/simple_model_predictions_with_features.csv
+notebooks/model_predictions_with_features.csv
